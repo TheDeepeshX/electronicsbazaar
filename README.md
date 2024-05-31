@@ -1,7 +1,10 @@
 # electronicsbazaar
 
-MY InternShip Project.
+MY InternShip Project. 
+IN numericinfosystem Privet limited , Gwalior
 Making A clone Of Croma Store .
+
+
 
 - 👋 Hi, I’m @TheDeepeshX
 - 👀 I’m interested in Development
